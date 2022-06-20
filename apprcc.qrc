@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>images/load_1.jpg</file>
+    <file>images/load_2.jpg</file>
+    <file>images/close_2.jpg</file>
+    <file>images/close_1.jpg</file>
+    <file>images/load .jpg</file>
+    <file>images/background.png</file>
+    <file>images/user.png</file>
+    <file>images/pwd.png</file>
+    <file>images/red_led.png</file>
+    <file>images/normal_led.png</file>
+    <file>images/green_led.png</file>
+  </qresource>
+</RCC>
